@@ -1,0 +1,10 @@
+{
+  "commitish" : "v1.2.2",
+  "iOS" : [
+    {
+      "name" : "SipHash",
+      "hash" : "53c6441128d72285c214aeb1c1b3b7c380ae15cbf226cd35ff7289f2317bdcd2",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}
