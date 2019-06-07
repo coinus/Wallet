@@ -11,6 +11,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Holds logics for handling mnemonic words
+ */
 public class Mnemonic {
 
     public Mnemonic() {

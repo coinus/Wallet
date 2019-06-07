@@ -40,7 +40,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Wrapper class that holds Ethereum related operation
+ * Wrapper class that holds Ethereum related operation. Uses Web3j to make transactions including CoinVerse Transactions.
  */
 public class WalletHDEtherPocket extends EtherWalletBase {
 

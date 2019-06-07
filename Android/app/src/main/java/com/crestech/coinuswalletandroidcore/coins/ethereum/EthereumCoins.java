@@ -12,6 +12,9 @@ import java.math.MathContext;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * CoinType defined for Ethereum coin
+ */
 public class EthereumCoins extends CoinType {
 
     public String publicAddress;

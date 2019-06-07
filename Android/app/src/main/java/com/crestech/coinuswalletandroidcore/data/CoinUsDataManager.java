@@ -4,7 +4,6 @@ import com.crestech.coinuswalletandroidcore.data.domain.wallet.CoinUsAccount;
 import com.crestech.coinuswalletandroidcore.data.repository.local.LocalDataRequester;
 import com.crestech.coinuswalletandroidcore.data.repository.remote.RemoteDataRequester;
 
-import java.util.HashMap;
 import java.util.Map;
 
 // Singleton
