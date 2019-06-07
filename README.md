@@ -1,1 +1,1 @@
-# Wallet
+# CoinUs Wallet
