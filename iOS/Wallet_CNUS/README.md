@@ -1,5 +1,7 @@
 # CoinUs Wallet CNUS<->BNUS Module for iOS.
 
+Interaction with CoinVerse BNUS converter is contained.
+
 | File Name  | Description |
 |:----------:|-------------|
 |`ETHClient.swift` | Ethereum client for wallet |
