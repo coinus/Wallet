@@ -1,5 +1,8 @@
 # CoinUs Wallet Core Module for iOS.
 
+Basic architecture used in CoinUs Wallet for iOS.
+
+
 | File Name  | Description |
 |:----------:|-------------|
 |`ETHClient.swift` | Ethereum client for wallet |
